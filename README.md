@@ -1,1 +1,1 @@
-Simple to-do project in React-Native
+Simple to-do app in React-Native
